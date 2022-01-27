@@ -1,0 +1,40 @@
+::-webkit-scrollbar {
+  height: 12px;
+  width: 12px;
+  overflow: visible;
+}
+
+::-webkit-scrollbar-track {
+  display: none;
+}
+
+::-webkit-scrollbar-thumb {
+  background-clip: padding-box;
+  border: solid transparent;
+  border-width: 3px;
+  border-radius: 50px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #A8A8A8;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  border-width: 1px;
+}
+
+html,
+body {
+  box-sizing: border-box;
+  height: 100%;
+}
+
+body {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+#tinymce {
+  margin: 0;
+  padding: 5px;
+}
