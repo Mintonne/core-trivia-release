@@ -6,6 +6,7 @@
 
 # Core Trivia Release
 
+* [Demo](https://admin.coretrivia.com/)
 * [Official Website](https://www.coretrivia.com/)
 * [Documentation](https://docs.coretrivia.com/)
 
